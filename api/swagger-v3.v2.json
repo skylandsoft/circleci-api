@@ -3773,7 +3773,8 @@
                                   "scheduled_pipeline",
                                   "explicit",
                                   "api",
-                                  "webhook"
+                                  "webhook",
+                                  "github_app"
                                 ],
                                 "type": "string",
                                 "description": "The type of trigger."
@@ -4210,7 +4211,8 @@
                             "scheduled_pipeline",
                             "explicit",
                             "api",
-                            "webhook"
+                            "webhook",
+                            "github_app"
                           ],
                           "type": "string",
                           "description": "The type of trigger."
@@ -6395,7 +6397,8 @@
                                   "scheduled_pipeline",
                                   "explicit",
                                   "api",
-                                  "webhook"
+                                  "webhook",
+                                  "github_app"
                                 ],
                                 "type": "string",
                                 "description": "The type of trigger."
@@ -6730,7 +6733,8 @@
                                   "scheduled_pipeline",
                                   "explicit",
                                   "api",
-                                  "webhook"
+                                  "webhook",
+                                  "github_app"
                                 ],
                                 "type": "string",
                                 "description": "The type of trigger."
@@ -7049,7 +7053,8 @@
                             "scheduled_pipeline",
                             "explicit",
                             "api",
-                            "webhook"
+                            "webhook",
+                            "github_app"
                           ],
                           "type": "string",
                           "description": "The type of trigger."
