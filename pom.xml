@@ -260,6 +260,7 @@
       <artifactId>jersey-apache-connector</artifactId>
       <version>${jersey.version}</version>
     </dependency>
+
     <!-- Override transitive vulnerable dependency commons-codec:1.11 introduced by jersey-apache-connector -->
     <!-- Vulnerability: Cxeb68d52e-5509 3.7 Exposure of Sensitive Information to an Unauthorized Actor vulnerability with Low severity found -->
     <dependency>
